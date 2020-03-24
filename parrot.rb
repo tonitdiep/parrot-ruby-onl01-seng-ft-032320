@@ -2,4 +2,5 @@
 # returns the phrase
 def parrot(pronouns="Squawk!")
     puts pronouns
+    return pronouns
 end
